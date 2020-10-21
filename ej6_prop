@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class ej_6 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/*
 		 * Escribe un programa java que declare una variable B de tipo entero y asígnale
